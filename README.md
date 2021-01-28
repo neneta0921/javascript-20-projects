@@ -2,7 +2,7 @@
 JavaScriptで作成した20個のプロジェクトです。
 
 ## 01. Quote Generator
-url：　https://neneta0921.github.io/js20-01_quote-generator <br>
+url： https://neneta0921.github.io/js20-01_quote-generator <br>
 repo: https://github.com/neneta0921/js20-01_quote-generator
 
 ## 02. Infinity Scroll
@@ -20,3 +20,7 @@ repo: https://github.com/neneta0921/js20-04_joke-teller
 ## 05. Light Dark Mode
 url: https://neneta0921.github.io/js20-05_light-dark-mode/ <br>
 repo: https://github.com/neneta0921/js20-05_light-dark-mode
+
+## 06. Animated
+url: https://neneta0921.github.io/js20-06_animated/ <br>
+repo: https://github.com/neneta0921/js20-06_animated
