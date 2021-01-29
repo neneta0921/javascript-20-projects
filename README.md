@@ -24,3 +24,8 @@ repo: https://github.com/neneta0921/js20-05_light-dark-mode
 ## 06. Animated
 url: https://neneta0921.github.io/js20-06_animated/ <br>
 repo: https://github.com/neneta0921/js20-06_animated
+
+## 07. Animated Navigation
+url: https://neneta0921.github.io/js20-07_animated-navigation/ <br>
+repo: https://github.com/neneta0921/js20-07_animated-navigation
+
