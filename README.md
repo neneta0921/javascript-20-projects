@@ -29,3 +29,10 @@ repo: https://github.com/neneta0921/js20-06_animated
 url: https://neneta0921.github.io/js20-07_animated-navigation/ <br>
 repo: https://github.com/neneta0921/js20-07_animated-navigation
 
+## 08. Music Player
+url: https://neneta0921.github.io/js20-08_music-player/ <br>
+repo: https://github.com/neneta0921/js20-08_music-player
+
+## 09. Custom Countdown
+url: https://neneta0921.github.io/js20-09_custom-countdown/ <br>
+repo: https://github.com/neneta0921/js20-09_custom-countdown
