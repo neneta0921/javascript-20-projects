@@ -40,3 +40,7 @@ repo: https://github.com/neneta0921/js20-09_custom-countdown
 ## 10. Bookmark Keeper
 url: https://neneta0921.github.io/js20-10_bookmark-keeper/ <br>
 repo: https://github.com/neneta0921/js20-10_bookmark-keeper
+
+## 11. Video Player 
+url: https://neneta0921.github.io/js20-11_video-player/ <br>
+repo: https://github.com/neneta0921/js20-11_video-player
