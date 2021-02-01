@@ -45,6 +45,10 @@ repo: https://github.com/neneta0921/js20-10_bookmark-keeper
 url: https://neneta0921.github.io/js20-11_video-player/ <br>
 repo: https://github.com/neneta0921/js20-11_video-player
 
-## 12.
+## 12. Form Validation
 url: https://neneta0921.github.io/js20-12_form-validation/ <br>
 repo: https://github.com/neneta0921/js20-12_form-validation/
+
+## 13. Spock Rock Game
+url: https://neneta0921.github.io/js20-13_spock-rock-game/ <br>
+repo: https://github.com/neneta0921/js20-13_spock-rock-game
