@@ -68,3 +68,7 @@ repo: https://github.com/neneta0921/js20-16_drag-and-drop/
 ## 17. Calculator
 url: https://neneta0921.github.io/js-20-17_calculator/ <br>
 repo: https://github.com/neneta0921/js-20-17_calculator/
+
+## 18. Splach Page
+url: https://neneta0921.github.io/js20-18_splash-page/ <br>
+repo: https://github.com/neneta0921/js20-18_splash-page
